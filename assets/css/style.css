@@ -1,3 +1,58 @@
+body {
+	background-color: #2b2d42;
+}
+
+h2 {
+	color: #8D99AE;
+	font-family: 'Shrikhand', cursive;
+}
+
+h4 {
+	color: #D90429;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+}
+
+label {
+	color:#2B2D42;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#tvShowName {
+	font-family: 'Quicksand', sans-serif;
+}
+
+#tvShowHelp {
+	color: #EDF2F4;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.form-group {
+	background-color: #8D99AE;
+	border: 2px solid;
+	border-radius: 5px;
+}
+
+.row {
+	background-color: #EDF2F4;
+	border: 2px solid;
+	border-radius: 6px;
+}
+
+#addShow {
+	font-family: 'Quicksand', sans-serif;
+}
+
 .tvShowButton {
-	
+	background-color: #EF233C;
+	border: 2px solid;
+	border-color: #D90429;
+	color: #EDF2F4;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 700;
+}
+
+.tvShowButton:hover {
+	background-color:#D90429;
+	border-color:#EDF2F4;
 }
